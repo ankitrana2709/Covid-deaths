@@ -1,4 +1,4 @@
-# Covid-deaths
+# Covid Death Count
 
 ### dataset imported from https://ourworldindata.org/covid-deaths ON 25/07/2022
 
